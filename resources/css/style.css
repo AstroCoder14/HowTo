@@ -1,0 +1,16 @@
+* {background-color: tomato;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h1 {color: black;
+background-color: red;
+font-weight: 800;}
+h2 {background-color: red;
+font-weight: 600;}
+h3 {color: black;
+background-color: rgb(41, 127, 255);
+font-weight: 600;}
+h4 {background-color: red;
+font-weight: 600;}
+p {background-color: red;}
+li {background-color: rgb(41, 127, 255);}
+a {background-color: rgb(41, 127, 255);
+padding: 20px;}
